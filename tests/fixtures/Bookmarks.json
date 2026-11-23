@@ -1,0 +1,76 @@
+{
+  "checksum": "deadbeefdeadbeefdeadbeefdeadbeef",
+  "roots": {
+    "bookmark_bar": {
+      "children": [
+        {
+          "type": "folder",
+          "name": "dev",
+          "date_added": "13380000000000000",
+          "date_modified": "13380000100000000",
+          "children": [
+            {
+              "type": "url",
+              "name": "Python",
+              "url": "https://www.python.org/",
+              "guid": "11111111-1111-1111-1111-111111111111",
+              "date_added": "13380000200000000"
+            },
+            {
+              "type": "url",
+              "name": "Ruff",
+              "url": "https://docs.astral.sh/ruff/",
+              "guid": "22222222-2222-2222-2222-222222222222",
+              "date_added": "13390000000000000"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "web <&>",
+          "date_added": "13380000300000000",
+          "date_modified": "13380000400000000",
+          "children": [
+            {
+              "type": "url",
+              "name": "Outside <Range>",
+              "url": "https://example.org/?a=1&b=2",
+              "guid": "33333333-3333-3333-3333-333333333333",
+              "date_added": "13350000000000000"
+            }
+          ]
+        }
+      ],
+      "date_added": "13370000000000000",
+      "date_modified": "13380000400000000",
+      "id": "1",
+      "name": "Bookmarks bar",
+      "type": "folder"
+    },
+    "other": {
+      "children": [
+        {
+          "type": "url",
+          "name": "Loose",
+          "url": "https://example.com/loose",
+          "guid": "44444444-4444-4444-4444-444444444444",
+          "date_added": "13380000500000000"
+        }
+      ],
+      "date_added": "13370000000000000",
+      "date_modified": "13380000500000000",
+      "id": "2",
+      "name": "Other bookmarks",
+      "type": "folder"
+    },
+    "synced": {
+      "children": [],
+      "date_added": "13370000000000000",
+      "date_modified": "0",
+      "id": "3",
+      "name": "Mobile bookmarks",
+      "type": "folder"
+    }
+  },
+  "version": 1
+}
